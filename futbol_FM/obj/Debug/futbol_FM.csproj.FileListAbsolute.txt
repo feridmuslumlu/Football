@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\futbol_FM\futbol_FM\bin\Debug\futbol_FM.exe.config
+C:\Users\User\source\repos\futbol_FM\futbol_FM\bin\Debug\futbol_FM.exe
+C:\Users\User\source\repos\futbol_FM\futbol_FM\bin\Debug\futbol_FM.pdb
+C:\Users\User\source\repos\futbol_FM\futbol_FM\obj\Debug\futbol_FM.csprojAssemblyReference.cache
+C:\Users\User\source\repos\futbol_FM\futbol_FM\obj\Debug\futbol_FM.Form1.resources
+C:\Users\User\source\repos\futbol_FM\futbol_FM\obj\Debug\futbol_FM.Properties.Resources.resources
+C:\Users\User\source\repos\futbol_FM\futbol_FM\obj\Debug\futbol_FM.csproj.GenerateResource.cache
+C:\Users\User\source\repos\futbol_FM\futbol_FM\obj\Debug\futbol_FM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\futbol_FM\futbol_FM\obj\Debug\futbol_FM.exe
+C:\Users\User\source\repos\futbol_FM\futbol_FM\obj\Debug\futbol_FM.pdb
